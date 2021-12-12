@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👨‍💻👋 Hello, I'm PhanTascii!!
+
+- 🏆 I'm interested in building mobile apps, working with serverless and cloud functions, and finding new technlogies.
+- 📖 I'm learning Kotlin, Swift, and React.js!!!
+- 🏘️ I'm looking to collaborate on A.I technologies, mobile libraries, and web tools
+
 
 <!--
 **PhanTascii/PhanTascii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
